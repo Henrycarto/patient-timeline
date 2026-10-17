@@ -3,9 +3,6 @@ dist
 dist-single
 *.local
 .env
-.claude/
-CLAUDE.md
-CLAUDE.local.md
 *.zip
 *.tsbuildinfo
 
