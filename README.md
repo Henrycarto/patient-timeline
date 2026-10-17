@@ -58,6 +58,8 @@ a single 3, and continuously at 7 or more (charted every 30 minutes). Sets fall 
 times, and four extra sets were charted by a nurse for a reason written on the chart. The
 density of the chart on the worst night is the rule at work.
 
+The decisions made that night, with the rules behind them, are in [decision-cockpit](https://github.com/Henrycarto/decision-cockpit).
+
 ## Clinical logic, tested
 
 90 tests, including:
