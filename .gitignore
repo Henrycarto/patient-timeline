@@ -8,3 +8,5 @@ CLAUDE.md
 CLAUDE.local.md
 *.zip
 *.tsbuildinfo
+
+.vercel
